@@ -57,7 +57,7 @@ export default siteConfig({
     },
 
     {
-      title: 'Notes Archive',
+      title: 'Contact',
       pageId: '8bb95e344491446ca4acd52ac4f654af'
     }
 
