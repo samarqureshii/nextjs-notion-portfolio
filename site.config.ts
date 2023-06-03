@@ -57,12 +57,12 @@ export default siteConfig({
     },
 
     {
-      title: 'Notes Archive',
+      title: 'Note Archive',
       pageId: '8bb95e344491446ca4acd52ac4f654af'
     },
 
     {
-      title: 'Plant Achive',
+      title: 'Plant Archive',
       pageId: '9e4bdbea7f104aa2a572a9a4e19925a6'
     }
   ]
