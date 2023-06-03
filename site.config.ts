@@ -59,11 +59,11 @@ export default siteConfig({
     {
       title: 'Notes Archive',
       pageId: '8bb95e344491446ca4acd52ac4f654af'
-    }
+    },
 
-    // {
-    //   title: 'Contact',
-    //   pageId: '8d02071538d743a69d58115572a213c6'
-    // }
+    {
+      title: 'Plant Achive',
+      pageId: '9e4bdbea7f104aa2a572a9a4e19925a6'
+    }
   ]
 })
