@@ -51,19 +51,25 @@ export default siteConfig({
   // important pages
   navigationStyle: 'custom',
   navigationLinks: [
+    
     {
       title: 'About',
       pageId: 'd952a31a71964e058a659fe15d096ba1' 
     },
+    {
+      title: 'Blog',
+      pageId: 'c7ff669d84984a7ebed8417ae321e609'
+    },
 
     {
-      title: 'Note Archive',
+      title: 'Notes',
       pageId: '8bb95e344491446ca4acd52ac4f654af'
     },
 
     {
-      title: 'Plant Archive',
+      title: 'Plants',
       pageId: '9e4bdbea7f104aa2a572a9a4e19925a6'
     }
+
   ]
 })
